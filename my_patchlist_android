@@ -1,0 +1,33 @@
+0.8.0 http://g18.gph.netease.com/patch0.8.0.my.all.and 135192 c70d96c7ccbacb2c8d5f160eba36b040
+0.9.0 http://g18.gph.netease.com/patch0.9.0.my.all.and 888504 a8c146cf20565af9763b56237f91c693
+0.21.0 http://g18.gph.netease.com/patch0.21.0.my.all.and 7318213 44a774a8ffcc0896e42daf49f814648d
+0.22.0 http://g18.gph.netease.com/patch0.22.0.my.all.and 1031614 fa71a4e85e3bec28f7b0249eb32ce27e
+0.23.0 http://g18.gph.netease.com/patch0.23.0.my.all.and 282877 7ff802ebae70ec8c2c5ea18f16d9ac90
+0.24.0 http://g18.gph.netease.com/patch0.24.0.my.all.and 1819749 54d9746b4db04aeca9272b1ee07e81b7
+0.25.0 http://g18.gph.netease.com/patch0.25.0.my.all.and 4503734 bf137d6648ab50ba75f601a44b196183
+0.26.0 http://g18.gph.netease.com/patch0.26.0.my.all.and 632250 3e80ddbaf994085e749077cd7536b751
+0.27.0 http://g18.gph.netease.com/patch0.27.0.my.all.and 19222 af5a59783cc5de49bddd2c9303a01577
+0.28.0 http://g18.gph.netease.com/patch0.28.0.my.all.and 4496097 6f86526f6b1543644818b7599e410f9f
+0.29.0 http://g18.gph.netease.com/patch0.29.0.my.all.and 51004 e5277e695d00b9a6fa7238da0ae95b19
+0.30.0 http://g18.gph.netease.com/patch0.30.0.my.all.and 50941 ff73f6220cedcb2eac8f5f977f76d917
+0.31.0 http://g18.gph.netease.com/patch0.31.0.my.all.and 628331 85890d2202ab10a9e2c7a1201a103fc1
+0.32.0 http://g18.gph.netease.com/patch0.32.0.my.all.and 257945 36ed87170fd52d094b4624d09540b896
+0.33.0 http://g18.gph.netease.com/patch0.33.0.my.all.and 93312 f5ad5811d27a7ba6f74920cb37925a43
+0.34.0 http://g18.gph.netease.com/patch0.34.0.my.all.and 4797876 9f70379ab0c256e569468cea0ce53b51
+0.35.0 http://g18.gph.netease.com/patch0.35.0.my.all.and 2314423 b0207433eb5815e5c77074a5063f5548
+0.36.0 http://g18.gph.netease.com/patch0.36.0.my.all.and 6986457 1d241f99f51b8b596bf63af91538967d
+1.6.0 http://g18.gph.netease.com/patch1.6.0.my.all.and 5179196 f9accd2f2a4fd983406498cf99d09007
+1.8.0 http://g18.gph.netease.com/patch1.8.0.my.all.and 7008272 460aea1c903207d440342684887b6992
+#httpurl http://g18.gdl.netease.com/
+#iosurl http://g18.gdl.netease.com/XyqPocket.ipa
+#miniver 0.34.0
+#apkver 1.6.0
+#updisable 0
+#announcement_android 100
+#announcement_ios 85
+#freshserverlist 1011
+#selectseverlist 1015
+#EnableOverseaServerlist 0
+#error_versions
+#EnableResume 1
+#EnableAutofixPatch 1
