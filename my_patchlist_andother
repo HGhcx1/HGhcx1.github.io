@@ -1,0 +1,13 @@
+1.2.0 http://g18.gph.netease.com/patch1.2.0.my.all.andother 109576 f9f7f51ad72e7291d1e4e49406b47dd9
+1.3.0 http://g18.gph.netease.com/patch1.3.0.my.all.andother 5008750 e499d96998404d215e408bc5b602dd80
+1.8.0 http://g18.gph.netease.com/patch1.8.0.my.all.andother 7073941 19e1bc6fe1c31cbc371e5e4d3e8ae43e
+1.11.0 http://g18.gph.netease.com/patch1.11.0.my.all.andother 1175426 866202efa44fc0b46d5dc623be0b61e7
+1.12.0 http://g18.gph.netease.com/patch1.12.0.my.all.andother 2507614 d222fa7a7c6363932cfa35ff290c324b
+1.14.0 http://g18.gph.netease.com/patch1.14.0.my.all.andother 2445452 f220df07b0f9b38a397dc895058a2f2f
+#httpurl http://g18.gdl.netease.com/
+#iosurl http://g18.gdl.netease.com/XyqPocket.ipa
+#miniver 0.20.0
+#apkver 0.20.0
+#updisable 0
+#announcement_andother 5
+#EnableResume 1
